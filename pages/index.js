@@ -29,8 +29,8 @@ export default function Home() {
         />
         <meta property="og:image" content="/images/seo-image.png" />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="http://localhost:3000/" /> {/* Cambia a tu dominio real */}
-        <link rel="canonical" href="http://localhost:3000/" /> {/* Cambia a tu dominio real */}
+        <meta property="og:url" content="https://juli-seo.onrender.com/" /> {/* Cambia a tu dominio real */}
+        <link rel="canonical" href="https://juli-seo.onrender.com/" /> {/* Cambia a tu dominio real */}
       </Head>
 
       {/* Sección del Héroe (Hero Section) */}

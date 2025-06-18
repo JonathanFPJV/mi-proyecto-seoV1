@@ -1,4 +1,4 @@
-const BASE_URL = "https://mi-sitio.com";
+const BASE_URL = "https://juli-seo.onrender.com"; // Cambia esto a tu URL base real
 
 export default async function handler(req, res) {
   const urls = ["/", "/blog", "/contacto"]; // Agrega más rutas dinámicamente
