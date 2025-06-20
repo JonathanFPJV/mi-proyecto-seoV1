@@ -18,15 +18,8 @@ function MyApp({ Component, pageProps }) {
         {/* Metadatos globales (útil para valores por defecto o fallback) */}
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta charSet="utf-8" />
-        
-        <meta name="google-site-verification" content="hWUfGC1xq0dg_FKEoqPtchnxRHpMMipgxl6D2ugpAww" />
 
-        {/*
-          Aquí puedes añadir metadatos que aplican a todas las páginas por defecto.
-          Las páginas individuales pueden sobrescribir estos valores usando su propio Head.
-          Por ejemplo, un título predeterminado si una página no tiene uno:
-        */}
-        {/* <title>Mi Sitio Web Optimizado por Defecto</title> */}
+        <meta name="google-site-verification" content="hWUfGC1xq0dg_FKEoqPtchnxRHpMMipgxl6D2ugpAww" />
 
         {/* Favicon - ¡Crucial para la marca y la UX! */}
         <link rel="icon" href="/favicon.ico" sizes="any" />
