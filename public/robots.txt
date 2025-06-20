@@ -1,3 +1,11 @@
+# mi-proyecto-seo/public/robots.txt
+
 User-agent: *
+# Permite que todos los robots (User-agent: *) rastreen todo el sitio (Allow: /).
+# Esto es generalmente lo que quieres para un sitio web público.
 Allow: /
+
+# Indica la ubicación de tu sitemap.xml.
+# ¡IMPORTANTE: Asegúrate de que esta sea tu URL DEPLOYADA en Render!
+# Debe ser la URL completa de tu API Route de sitemap.
 Sitemap: https://juli-seo.onrender.com/api/sitemap
